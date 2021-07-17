@@ -13,3 +13,18 @@ Untuk saat ini, saya belum menemukan API yang sangat lengkap untuk seluruh ensik
 
 ### Playstore Page
 ...
+
+### Screenshoots
+Beberapa cuplikan layar Belajar Taekwondo
+
+- Homescreen
+<img src="https://github.com/diowicaksono/BelajarTaekwondo/blob/main/Screenshots/Home.jpeg" width="30%" height="30%">
+
+- Menu Kyourgi
+<img src="https://github.com/diowicaksono/BelajarTaekwondo/blob/main/Screenshots/Kyourugi.jpeg" width="30%" height="30%">
+
+- Kyourgi Detail
+<img src="https://github.com/diowicaksono/BelajarTaekwondo/blob/main/Screenshots/Kyourugi%20Detail.jpeg" width="30%" height="30%">
+
+- Menu Pengetahuan
+<img src="https://github.com/diowicaksono/BelajarTaekwondo/blob/main/Screenshots/Pengetahuan" width="30%" height="30%">
