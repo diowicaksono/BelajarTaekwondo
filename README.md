@@ -27,4 +27,4 @@ Beberapa cuplikan layar Belajar Taekwondo
 <img src="https://github.com/diowicaksono/BelajarTaekwondo/blob/main/Screenshots/Kyourugi%20Detail.jpeg" width="30%" height="30%">
 
 - Menu Pengetahuan
-<img src="https://github.com/diowicaksono/BelajarTaekwondo/blob/main/Screenshots/Pengetahuan" width="30%" height="30%">
+<img src="https://github.com/diowicaksono/BelajarTaekwondo/blob/main/Screenshots/Pengetahuan.jpeg" width="30%" height="30%">
